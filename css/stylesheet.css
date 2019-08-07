@@ -1,0 +1,17 @@
+.gradient-theme {
+    background: linear-gradient(to right, #141e30, #243b55);
+    color: white;
+}
+
+.app-store{
+    display: inline-block;
+    margin-right: 10px;
+}
+    .app-store:hover {
+        -webkit-transform: translateY(-3px);
+        -ms-transform: translateY(-3px);
+        transform: translateY(-3px);
+    }
+    .app-store img {
+        opacity: 0.3;
+    }
