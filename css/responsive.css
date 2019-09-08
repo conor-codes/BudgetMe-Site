@@ -261,10 +261,10 @@ ul.navbar-nav {
 	background: #fff;
 }
 .sticky .home-three-menu .navbar-toggler {
-	border-color: #3878ff;
+border-color: #333333;
 }
 .sticky .home-three-menu .navbar-toggler span {
-	background: #3878ff;
+    background: #333333;
 }
 .gradient-sticky.sticky .navbar-toggler {
 	border-color: #fff;
@@ -359,10 +359,10 @@ blockquote {
 	border-color: #fff;
 }
 .sticky .home-three-menu .navbar-toggler {
-	border-color: #3878ff;
+	border-color: #333333;
 }
 .sticky .home-three-menu .navbar-toggler span {
-	background: #3878ff;
+	background: #333333;
 }
 .gradient-sticky.sticky .navbar-toggler {
 	border-color: #fff;
